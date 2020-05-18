@@ -1,0 +1,9 @@
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netstandard2.0\arrayShuffle.csprojAssemblyReference.cache
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netstandard2.0\arrayShuffle.csproj.CoreCompileInputs.cache
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netstandard2.0\arrayShuffle.AssemblyInfoInputs.cache
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netstandard2.0\arrayShuffle.AssemblyInfo.cs
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netstandard2.0\arrayShuffle.deps.json
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netstandard2.0\arrayShuffle.dll
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netstandard2.0\arrayShuffle.pdb
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netstandard2.0\arrayShuffle.dll
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netstandard2.0\arrayShuffle.pdb

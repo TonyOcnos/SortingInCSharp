@@ -1,0 +1,13 @@
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netcoreapp3.1\arrayShuffle.exe
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netcoreapp3.1\arrayShuffle.deps.json
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netcoreapp3.1\arrayShuffle.runtimeconfig.json
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netcoreapp3.1\arrayShuffle.runtimeconfig.dev.json
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netcoreapp3.1\arrayShuffle.dll
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\bin\Debug\netcoreapp3.1\arrayShuffle.pdb
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netcoreapp3.1\arrayShuffle.csprojAssemblyReference.cache
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netcoreapp3.1\arrayShuffle.csproj.CoreCompileInputs.cache
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netcoreapp3.1\arrayShuffle.AssemblyInfoInputs.cache
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netcoreapp3.1\arrayShuffle.AssemblyInfo.cs
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netcoreapp3.1\arrayShuffle.dll
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netcoreapp3.1\arrayShuffle.pdb
+C:\Users\martiant\Google Drive\Projects\arrayShuffle\obj\Debug\netcoreapp3.1\arrayShuffle.genruntimeconfig.cache
