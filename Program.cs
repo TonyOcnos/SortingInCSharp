@@ -14,20 +14,19 @@ namespace arrayShuffle
             TimeSpan timeSpan;  
 
             array1.create();
-            array1.showArray();
             array1.shuffleArray();
             array1.showArray();
 
             sw1.Start();
-            array1.bubbleSorting();
+            SortingType.bubbleSorting(array1.createdArray);
             sw1.Stop();
 
             array1.showArray();
 
             timeSpan = sw1.Elapsed;
             Console.WriteLine("Sorting: Bubble Sort");
-            Console.WriteLine($"Attemps: {array1.sortingAttemps}");
-            Console.WriteLine($"Swaps: {array1.itemSwaps}");
+            Console.WriteLine($"Attemps: {SortingType.sortingAttemps}");
+            Console.WriteLine($"Swaps: {SortingType.itemSwaps}");
             Console.WriteLine($"Time elapsed: {timeSpan.TotalMilliseconds} ms");
         }
     }

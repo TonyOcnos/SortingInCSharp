@@ -5,10 +5,7 @@ namespace arrayShuffle
     public class ArraySorted
     {
         private int numItems {get; set;}
-        private int[] createdArray;
-
-        public int itemSwaps;
-        public int sortingAttemps;
+        public int[] createdArray;
 
         public ArraySorted(int numItems){
             this.numItems = numItems;
@@ -40,26 +37,11 @@ namespace arrayShuffle
             createdArray[swapInd] = temp;
         }
 
-        public void bubbleSorting(){
-            int temp;
-            int flag = 1;
-            itemSwaps = 0;
-            sortingAttemps = 0;
+        // public void selectionSorting(){
+        //     int[] arrayCopy = new int[this.numItems];
+        //     Array.Copy(createdArray, arrayCopy, this.numItems);
 
-            while(flag != 0){
-                flag = 0;
-                for(int i=0;i<createdArray.Length-1;i++){
-                    if(createdArray[i]>createdArray[i+1]){
-                        temp = createdArray[i];
-                        createdArray[i] = createdArray[i+1];
-                        createdArray[i+1] = temp;
-                        flag++;
-                        itemSwaps++;
-                    }
-                }
-                sortingAttemps++;
-            }
-        }
+        // }
 
         public void showArray(){
             string res = String.Join(" - ", createdArray);
